@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Arthur!
+# 👋 Olá, eu sou o Artur!
 
 Sou estudante e desenvolvedor backend focado em **Python, Django e bancos de dados como SQLite**.  
 Busco uma oportunidade de **estágio remoto** onde eu possa contribuir, aprender com bons profissionais e crescer na área de tecnologia.
