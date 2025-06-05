@@ -11,7 +11,7 @@ Busco uma oportunidade de **estágio remoto** onde eu possa contribuir, aprender
 
 ---
 ### 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogxrtur&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogxrtur&layout=compact&theme=dark&hide=jupyter%20notebook)
 
 ---
 
