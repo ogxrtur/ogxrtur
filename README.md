@@ -11,6 +11,10 @@ Busco uma oportunidade de **estágio remoto** onde eu possa contribuir, aprender
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
+### 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogxrtur&layout=compact&theme=dark)
+
+---
 
 ###  O que estou buscando:
 -  Estágio remoto como desenvolvedor backend
